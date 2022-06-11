@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+#score{
+    font-size: 50;
+    margin-left: 150;
+    float: left;
+}
+#timer{
+    font-size: 50;
+    margin-right: 150;
+    float: right;
+}
+#SUS{
+    color: red;
+}
